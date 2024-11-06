@@ -137,6 +137,7 @@ Here are all the files copied into the container in order for the server to run 
 - **filterscripts**: Contains the compiled filterscripts
 - **gamemodes**: Contains the compiled gamemodes
   - **blank.amx**: A blank gamemode to display an error if none were provided
+- **models**: Contains the models used by the server (0.3.DL only)
 - **npcmodes**: Contains the recorded NPC scripts
   - **recordings**: Contains the recording files
 - **plugins**: Contains the server plugins

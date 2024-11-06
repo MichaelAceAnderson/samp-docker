@@ -27,13 +27,21 @@ Types of changes:
 
 - [Changelog](#changelog)
   - [Table of Contents](#table-of-contents)
+  - [\[2.0.0\] - 2024-11-06](#200---2024-11-06)
+    - [Added in 2.0.0](#added-in-200)
   - [\[1.0.0\] - 2024-11-06](#100---2024-11-06)
-    - [Added](#added)
+    - [Added in 1.0.0](#added-in-100)
 
 <!-- ## [Unreleased] -->
 
+## [2.0.0] - 2024-11-06
+
+### Added in 2.0.0
+
+- Base image with 0.3.DL-R1 server version and environment variables
+
 ## [1.0.0] - 2024-11-06
 
-### Added
+### Added in 1.0.0
 
 - Base image with 0.3.7-R2 server version and environment variables
